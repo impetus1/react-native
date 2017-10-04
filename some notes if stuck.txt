@@ -1,0 +1,1 @@
+Remember to to react-native run-android to get app on emulated phone then close, then cd back to test project and do react-native start and presto!
