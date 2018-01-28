@@ -5,7 +5,7 @@ export default class Splash extends Component {
 	render(){
 		return (
             <View style={styles.wrapper}>
-                <Text>'Hola Werld'</Text>
+                <Text>'Basic splash page written in react native'</Text>
                 <View style={styles.TopLeftIcon}>
                     <Image source={require('./ffap-tiny1.png')} />
                 </View>
