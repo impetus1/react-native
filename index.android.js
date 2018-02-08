@@ -19,7 +19,7 @@ export default class TestProject extends Component {
       /*<View style={styles.container}>
             <Image source={pic} style={{width: 163, height: 220}}/>
               <Text style={styles.welcome}>
-                Quo pues parce!!!        </Text>
+                This is just some text for prelims.        </Text>
               <Text style={styles.instructions}>
                 To get started, don't edit index.android.js
               </Text>
